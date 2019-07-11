@@ -1,0 +1,6 @@
+  [
+  {"id": 1,"nome": "Fullmetal Alchemist Brotherhood", "eps": 26, "genero": ["shounnen", "ação", "aventura"]},
+  {"id": 2,"nome": "Kuroko no Basket", "eps": 24, "genero": ["shounnen", "ação", "aventura", "esporte"]},
+  {"id": 3,"nome": "One Punch Man - 1ª temporada", "eps": 12, "genero": ["shounnen", "ação", "aventura"]},
+  {"id": 4,"nome": "Death Note", "eps": 26, "genero": ["policial", "ação", "aventura", "sobrenatural"]}
+]
